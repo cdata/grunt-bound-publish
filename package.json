@@ -1,0 +1,18 @@
+{
+  "name": "grunt-bound-publish",
+  "version": "0.0.1",
+  "description": "A grunt task for publishing Bound-formated content.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Chris Joel",
+  "license": "BSD",
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "dependencies": {
+    "bound": "0.0.1"
+  }
+}
