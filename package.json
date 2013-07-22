@@ -1,6 +1,6 @@
 {
   "name": "grunt-bound-publish",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A grunt task for publishing Bound-formated content.",
   "main": "Gruntfile.js",
   "scripts": {
@@ -13,6 +13,6 @@
     "grunt": "~0.4.1"
   },
   "dependencies": {
-    "bound": "0.0.1"
+    "bound": "~0.0.3"
   }
 }
